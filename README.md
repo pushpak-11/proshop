@@ -76,3 +76,5 @@ npm run data:import
 # Destroy data
 npm run data:destroy
 ```
+
+# Bug Fixes, corrections and code FAQ
