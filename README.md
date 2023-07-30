@@ -4,9 +4,9 @@
 
 <img src="./frontend/public/images/screens.png">
 
-It is a full-featured shopping cart with PayPal & credit/debit payments. See it in action at https://www.proshopdemo.dev
+It is a full-featured shopping cart with PayPal & credit/debit payments. See it in action at https://proshop-44q0.onrender.com
 
- which uses Redux Toolkit. The first version can be found [here](https://proshop-44q0.onrender.com)
+
 
 
 ## Features
