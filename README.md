@@ -1,4 +1,12 @@
-# ProShop eCommerce
+# ProShop eCommerce Platform (v2)
+
+> eCommerce platform built with the MERN stack & Redux.
+
+<img src="./frontend/public/images/screens.png">
+
+It is a full-featured shopping cart with PayPal & credit/debit payments. See it in action at https://www.proshopdemo.dev
+
+ which uses Redux Toolkit. The first version can be found [here](https://proshop-44q0.onrender.com)
 
 
 ## Features
@@ -27,7 +35,7 @@
 ### Env Variables
 
 Rename the `.env.example` file to `.env` and add the following
-https://www.youtube.com/watch?v=C_8WvR1rKpM&list=PLJ18l2m4Gsa_d-WrmQYi6AcjQCxRZ0wG1
+
 ```
 NODE_ENV = development
 PORT = 5000
@@ -77,4 +85,4 @@ npm run data:import
 npm run data:destroy
 ```
 
-# Bug Fixes, corrections and code FAQ
+
